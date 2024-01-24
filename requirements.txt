@@ -4,3 +4,7 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+torch
+xgboost
+skorch
+ray[tune]
